@@ -1,4 +1,4 @@
-# Machine_Learning_Project1
+# Weather Predictions
 
 In this project, we focus on supervised learning, specifically the process of classification. The goal is to train a model to predict rainfall. Specifically, we are given data such as temperature, humidity, wind, etc., for a particular day in a location and whether it rained the following day at that location. We perform the necessary preprocessing on this data (e.g., one-hot encoding, normalization, etc.) and train various models using different classification algorithms, comparing their performance. Finally, we study the hyperparameters based on specific metrics and derive statistical results to optimize them. We export our predictions to corresponding .csv files.
 
